@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm N.V. Sai Ruthvik Kasi</h1>
+<h1 align="center">Hi 👋, I'm N. V. Sai Ruthvik Kasi</h1>
 <h3 align="center">Data Scientist and an UI/UX Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://e1.pxfuel.com/desktop-wallpaper/610/109/desktop-wallpaper-17-big-hero-6-movie-big-hero-6-thumbnail.jpg">
