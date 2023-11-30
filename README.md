@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/KasiR07/KasiR07/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm N. V. Sai Ruthvik Kasi</h1>
 <h3 align="center">Data Scientist and an UI/UX Developer</h3>
 
