@@ -1,4 +1,5 @@
-![logo](https://github.com/KasiR07/KasiR07/blob/main/Github_banner_2.0.png) 
+![image](https://github.com/user-attachments/assets/addb66c4-d895-4a03-a437-f685032d37f7)
+
 <h1 align="center">Hi 👋, I'm N. V. Sai Ruthvik Kasi</h1>
 <h3 align="center">Data Scientist and an UI/UX Developer</h3> 
 
