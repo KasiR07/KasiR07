@@ -1,15 +1,15 @@
 ![image](https://github.com/user-attachments/assets/1b550a8a-b924-468e-95ce-e3e769b959de)
 
 <h1 align="center">Hi 👋, I'm N. V. Sai Ruthvik Kasi</h1>
-<h3 align="center">Data Scientist and an UI/UX Developer</h3> 
+<h3 align="center">Data Scientist and an Software Developer</h3> 
 
 <img align="right" alt="coding" width="400" src="https://e1.pxfuel.com/desktop-wallpaper/610/109/desktop-wallpaper-17-big-hero-6-movie-big-hero-6-thumbnail.jpg">
 
-- 🔭 I’m currently working on **Home Automation System**
+- 🔭 I’m currently working on **Django and Data Security**
 
-- 🌱 I’m currently learning **App Development**
+- 🌱 I’m currently learning **Generative AI**
 
-- 👯 I’m looking to collaborate on **Game Development using AI**
+- 👯 I’m looking to collaborate on **Machine Learning/Data Engineering**
 
 - 📫 How to reach me **knvsruthvik07@gmail.com**
 
