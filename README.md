@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/addb66c4-d895-4a03-a437-f685032d37f7)
+![image](https://github.com/user-attachments/assets/1b550a8a-b924-468e-95ce-e3e769b959de)
 
 <h1 align="center">Hi 👋, I'm N. V. Sai Ruthvik Kasi</h1>
 <h3 align="center">Data Scientist and an UI/UX Developer</h3> 
